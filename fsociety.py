@@ -1296,8 +1296,8 @@ def gravity():
     for _ in gravityforms:
 
 
-    print('\n')
-    print('[*] Found, ', len(gravityforms), ' gravityforms.')
+    print("\n")
+    print("[*] Found," , len(gravityforms), " gravityforms.")
 
 
 def shellnoob():
